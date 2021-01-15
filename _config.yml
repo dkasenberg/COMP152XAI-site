@@ -17,8 +17,8 @@ title: "COMP 152: XAI"
 tagline: "Explainable Artificial Intelligence"
 description: COMP 152-06, Spring 2021
 author: Daniel Kasenberg
-baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: 'comp/152XAI' # the subpath of your site, e.g. /blog
+url: 'https://www.cs.tufts.edu' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 course_start: 2021-02-01
 course_end: 2021-05-05
